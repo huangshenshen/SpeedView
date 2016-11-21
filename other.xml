@@ -72,11 +72,6 @@
     <option name="MOVE_PREVIEW_USAGES" value="false" />
   </component>
   <component name="SvnApplicationSettings">
-    <option name="myCheckoutURLs">
-      <list>
-        <option value="https://Dell/svn/ShiJie/" />
-      </list>
-    </option>
     <option name="myTypedURLs">
       <list>
         <option value="https://Dell/svn/ShiJie/" />
