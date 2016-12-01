@@ -5,11 +5,17 @@
   <option name="CONSOLE_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <attributes>
+    <option name="BOOKMARKS_ATTRIBUTES">
+      <value />
+    </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="ffff00" />
         <option name="FONT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="LOG_EXPIRED_ENTRY">
+      <value />
     </option>
   </attributes>
 </scheme>
