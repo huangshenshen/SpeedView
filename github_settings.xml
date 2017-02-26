@@ -2,6 +2,6 @@
   <component name="GithubSettings">
     <option name="LOGIN" value="huangshenshen666@163.com" />
     <option name="AUTH_TYPE" value="BASIC" />
-    <option name="CONNECTION_TIMEOUT" value="8000" />
+    <option name="CONNECTION_TIMEOUT" value="4500" />
   </component>
 </application>
